@@ -1,4 +1,4 @@
-# Spam-Classifier
+# Spam-Classifier using Naive Bayes Classifier
 <p>For better understanding of how spam classifier works we have divided it into 3 parts: <br> <br>
 1)Pre-processing data:<br>
 i)Extracting body of email <br>
