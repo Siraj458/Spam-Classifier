@@ -20,7 +20,9 @@ i)Extracting body of email <br>
 Naive bayes can also be used directly by using SCIKITLEARN as shown in 'Naive_bayes_with_scikitlearn' <br> <br>
 
 Missing data is 'spam_assassin_corpus' which is to heavy file to put here but you can get the data from link below. <br> 
-data was taken from - https://spamassassin.apache.org/old/publiccorpus/</p>
+data was taken from - https://spamassassin.apache.org/old/publiccorpus/ <br> <br>
+
+after exctracting data to 'spam_assassin_corpus' folder it should be kept inside 01_Processing and all 01_Processing, 02_Training, 03_Testing should be kept in same folder 'SpamData' to use above codes perfectly.</p>
 
 
 
