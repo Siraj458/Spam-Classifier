@@ -17,7 +17,9 @@ i)Extracting body of email <br>
 3)Test and Evaluation: <br>
         content-> i) Testing metrics-> Accuracy, Recall score, Precision score, F-score <br> <br>
 
-Naive bayes can also be used directly by using SCIKITLEARN as shown in 'Naive_bayes_with_scikitlearn' </p>
+Naive bayes can also be used directly by using SCIKITLEARN as shown in 'Naive_bayes_with_scikitlearn' <br> <br>
+
+data was taken from - https://spamassassin.apache.org/old/publiccorpus/</p>
 
 
 
