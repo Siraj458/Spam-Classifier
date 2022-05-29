@@ -1,5 +1,5 @@
 # Spam-Classifier
-For better understanding of how spam classifier works we have divided it into 3 parts:
+<p>For better understanding of how spam classifier works we have divided it into 3 parts:
 1)Pre-processing data:
        content-> i)Extracting body of email
                  ii)Pie Chart and Donut Chart
@@ -17,7 +17,7 @@ For better understanding of how spam classifier works we have divided it into 3 
 3)Test and Evaluation:
         content-> i) Testing metrics-> Accuracy, Recall score, Precision score, F-score
 
-Naive bayes can also be used directly by using SCIKITLEARN as shown in 'Naive_bayes_with_scikitlearn'
+Naive bayes can also be used directly by using SCIKITLEARN as shown in 'Naive_bayes_with_scikitlearn' </p>
 
 
 
