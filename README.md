@@ -1,8 +1,8 @@
 # Spam-Classifier
 <p>For better understanding of how spam classifier works we have divided it into 3 parts: <br>
-1)Pre-processing data:
-       content-> i)Extracting body of email
-                 ii)Pie Chart and Donut Chart
+1)Pre-processing data:<br>
+       content-> i)Extracting body of email <br>
+                 ii)Pie Chart and Donut Chart <br>
                  iii)Text Pre-processing
                  iv)Tokenizing
                  v)Beautiful Soup
