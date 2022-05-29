@@ -19,6 +19,7 @@ i)Extracting body of email <br>
 
 Naive bayes can also be used directly by using SCIKITLEARN as shown in 'Naive_bayes_with_scikitlearn' <br> <br>
 
+Missing data is 'spam_assassin_corpus' which is to heavy file to put here but you can get the data from link below. <br> 
 data was taken from - https://spamassassin.apache.org/old/publiccorpus/</p>
 
 
